@@ -17,6 +17,8 @@ A web-based tool to manage and track security testing checklists for Web, API, A
 1. Download `index.html (security-checklist-tool)`
 2. Open in any modern browser
 3. Create a project and start testing
+   or
+5. Visit - https://akashlahare.github.io/Testing-Checklist/
 
 ## Tech Stack
 
