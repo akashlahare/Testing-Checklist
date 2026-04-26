@@ -1,6 +1,6 @@
 # SecList - Security Testing Checklist Tool
 
-![SecList Tool Preview](https://github.com/akashlahare/Testing-Checklist/blob/main/image.png)
+![SecList Tool Preview]()
 
 A web-based tool to manage and track security testing checklists for Web, API, Android, iOS, and Thick Client applications.
 
