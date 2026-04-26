@@ -14,7 +14,7 @@ A web-based tool to manage and track security testing checklists for Web, API, A
 
 ## Quick Start
 
-1. Download `index.html (security-checklist-tool)`
+1. Download `security-checklist-tool`
 2. Open in any modern browser
 3. Create a project and start testing
 #### or
